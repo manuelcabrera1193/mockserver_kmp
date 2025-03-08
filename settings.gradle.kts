@@ -1,4 +1,4 @@
-rootProject.name = "Demo"
+rootProject.name = "MockserverDemo"
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
 pluginManagement {
